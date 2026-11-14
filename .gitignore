@@ -1,0 +1,16 @@
+# Dados grandes (baixados do Kaggle)
+data/raw/
+data/processed/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Modelos e arquivos do Power BI
+models/*.joblib
+reports/*.pbix
